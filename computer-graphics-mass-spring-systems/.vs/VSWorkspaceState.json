@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\libigl",
+    "\\libigl\\include",
+    "\\libigl\\include\\igl",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\fast_mass_springs_step_sparse.cpp",
+  "PreviewInSolutionExplorer": false
+}
